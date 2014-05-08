@@ -1,3 +1,4 @@
+//singleton
 package com.thread.local;
 
 import java.util.HashMap;
