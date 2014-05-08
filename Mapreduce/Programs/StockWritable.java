@@ -1,3 +1,4 @@
+
 package twok.hadoop.mapreduce;
 
 import java.io.DataInput;
