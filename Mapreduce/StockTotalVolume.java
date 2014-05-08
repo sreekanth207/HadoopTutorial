@@ -1,3 +1,4 @@
+
 Output: Both country and market are specified in the mapred and yarn site xmls resp. and market retrieved in Map task 
 by using Mapper.Context and country retrieved in Reduce Task by using Reducer.Context
 
